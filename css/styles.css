@@ -34,7 +34,7 @@ p {
 
 }
 .text-primary{
-    color:brown;
+    color:coral;
 }
 
 .lead{
@@ -65,13 +65,15 @@ p {
  }
 
  .bg-light{
-    background: #333;
-    color:#fff;
+    color:#333;
+    background: white;
+    
 }
 
 .bg-primary{
-    background: #333;
-    color:#f7c08a;
+    color:#333;
+    background: coral;
+    
 }
 
 #navbar {
@@ -157,4 +159,15 @@ p {
 }
 #home-info .info-content p{
     padding-bottom: 30px;
+}
+
+.box{
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center;
+}
+
+.box i{
+    margin-bottom: 10p;
 }
