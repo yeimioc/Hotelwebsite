@@ -76,6 +76,10 @@ p {
     
 }
 
+.clr {
+    clear: both;
+}
+
 #navbar {
     background:#333 ;
     color: #fff;
@@ -143,7 +147,7 @@ p {
     float: left;
     width: 50%;
     padding:5%;
-    background: url("../images/hotel4.jpg") no-repeat;
+    background: url("../images/breakfast-champagne-hotel-6685\ \(1\).jpg") no-repeat;
     min-height: 100%;
 }
 
@@ -171,3 +175,22 @@ p {
 .box i{
     margin-bottom: 10p;
 }
+#about-info .info-right{
+    float: right;
+    width: 50%;
+    min-height: 100%;
+}
+#about-info .info-right img{
+    display: block;
+    margin: auto;
+    width: 70%;
+    
+}
+  
+#main-footer{
+    text-align: center;
+    background: #444;
+    color:white;
+    padding:20px;
+}
+  
