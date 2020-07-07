@@ -33,6 +33,23 @@ p {
     padding: 0 20px;
 
 }
+.text-primary{
+    
+}
+.btn{
+    display: inline-block;
+    font-size: 18px;
+    color:#fff;
+    background: #333;
+    padding: 13px 20px;
+    border:none;
+    cursor: pointer;
+}
+ .btn:hover{
+    background: #f7c08a;
+    color:#333;
+
+ }
 
 
 
@@ -73,6 +90,24 @@ p {
     color:#f7c08a;
 }
 #showcase{
-    background: url("./images/hotel.jpg") no-repeat center center/cover;
+    background: url("../images/hotel.jpg") no-repeat center center/cover;
     height: 600px;
+}
+
+#showcase .showcase-content{
+    color:#fff;
+    text-align: center;
+    padding-top: 170px;
+
+}
+
+#showcase .showcase-content h1{
+    font-size: 60px;
+    line-height: 1.2em;
+}
+
+
+#showcase .showcase-content p{
+    padding-bottom: 20px;
+    line-height: 1.7em;
 }
