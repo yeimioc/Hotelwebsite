@@ -231,7 +231,7 @@ p {
 }
 
 #contact-form .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 
 }
 
@@ -240,6 +240,7 @@ p {
     margin-bottom: 5px;
     
 }
+
 
 #contact-form input,
 #contact-form textarea {
