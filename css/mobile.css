@@ -20,3 +20,28 @@
     float: none;
     width: 100%;
 }
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right,
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    margin-top: 30px;
+}
+
+.l-heading {
+    text-align: center;
+}
+
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
+
+
